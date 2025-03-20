@@ -3,5 +3,7 @@ Hello! Listed here are projects that I have worked on since learning the basics 
 
 |Project Link|Description|
 |----|:----:|
+|[Java]()|Exercises on Java|
+|[MATLAB Projects/Exercises]()|Exercises on MATLAB|
 |[Web Design Projects/Exercises](https://github.com/pjbramos/web_design)|Exercises on HTML, CSS, and JavaScript from online courses and school|
 |[C++ Projects](https://github.com/pjbramos/cpp_projects)|Exercises on creating shapes, arithmetic problem solving, and other loop topics|
